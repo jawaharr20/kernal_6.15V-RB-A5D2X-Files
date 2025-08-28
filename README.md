@@ -1,6 +1,6 @@
 This images is for kernel 6.15 updated version (latest kernel version)
 This 6.15 kernel version is build for Ruggerd board a5d2x 
-just boot the ruggerd board with this images and check with the command 
+check with the command 
 uname -r 
 it will show the kernel version....
 
